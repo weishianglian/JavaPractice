@@ -1,0 +1,3 @@
+## Practice Java Daily Ways
+
+
